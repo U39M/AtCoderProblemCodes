@@ -1,1 +1,2 @@
 # AtCoderProblemCodes
+AtCoderのコンテストで提出したコードを保存するリポジトリ。
