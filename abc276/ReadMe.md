@@ -1,4 +1,4 @@
-# AtCoder Beginner Contest 275
+# AtCoder Beginner Contest 276
 
 リンク:[https://atcoder.jp/contests/abc276]
 
