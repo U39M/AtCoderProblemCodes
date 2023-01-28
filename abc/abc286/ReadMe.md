@@ -1,4 +1,4 @@
-# AtCoder Beginner Contest 286
+# AtCoder Beginner Contest 287
 
 リンク:[https://atcoder.jp/contests/abc286]
 
